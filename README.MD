@@ -4,7 +4,7 @@
 
 👌Owners:
 npm,
-Erool,
+Errol,
 pokemon_master,
 ryze,
 kylee,
