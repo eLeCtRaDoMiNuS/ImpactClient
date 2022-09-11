@@ -11,6 +11,4 @@ kylee,
 TaperingQuill35,
 joog
 
-😍Features
-
-Coming soon
+😍Features are Coming soon
