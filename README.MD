@@ -15,3 +15,5 @@ joog
 😍Features are Coming soon
 
 Next best bedwars script???
+
+scripts are ready but the ui library is not finished 💀
