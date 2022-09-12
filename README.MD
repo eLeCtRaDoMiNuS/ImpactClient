@@ -13,3 +13,5 @@ joog
 👌
 
 😍Features are Coming soon
+
+Next best bedwars script???
