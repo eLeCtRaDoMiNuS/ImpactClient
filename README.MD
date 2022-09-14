@@ -7,7 +7,6 @@ npm,
 Errol,
 pokemon_master,
 ryze,
-kylee,
 TaperingQuill35,
 joog
 👌
