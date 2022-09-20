@@ -8,7 +8,6 @@ Errol,
 pokemon_master,
 ryze,
 TaperingQuill35,
-joog
 👌
 
 😍Features are Coming soon
